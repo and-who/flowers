@@ -30,7 +30,7 @@ module.exports = env => {
     devtool = 'hidden-source-map';
     mode = 'production';
     stats = 'none';
-    outputPath = `${__dirname}/build/js`;
+    outputPath = `${__dirname}/docs/js`;
     publicPath = 'js/';
   }
 
